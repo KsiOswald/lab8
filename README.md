@@ -45,7 +45,7 @@
 
 ### Тестирование
 
-![.]()
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab2.png)
 
 ## Задание 3
 
@@ -68,8 +68,8 @@
 
 ### Тестирование
 
-![.]()
-![.]()
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab3.png)
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab3.1.png)
 
 ## Задание 4
 
@@ -88,7 +88,7 @@
 
 ### Тестирование
 
-![.]()
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab4.png)
 
 ## Задание 5
 
@@ -121,7 +121,7 @@
 
 ### Тестирование
 
-![.]()
-![.]()
-![.]()
-![.]()
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab5.1.png)
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab5.2.png)
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab5.3.png)
+![.](https://github.com/KsiOswald/lab8/blob/main/tests/lab5.4.png)
